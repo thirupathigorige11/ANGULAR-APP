@@ -1,0 +1,4 @@
+.collapse>ul>li>a,.navbar-header>a{
+    color: white;
+    font-weight: bold;
+}
